@@ -15,8 +15,11 @@ The Student Result Management System, built with Python Tkinter, allows manageme
 
 ## Screenshots
 
+![Courses](Output/Course.png)
+*Description or Caption (if needed)*
+
 ### Student Information
-![Student Information](Output/Student_Information.png)
+![Student Information](Output/Student%20Information.png)
 *Description or Caption (if needed)*
 
 ### View Student Result
