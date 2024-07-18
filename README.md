@@ -1,6 +1,6 @@
 # Student Result Management System
 
-![Project Logo or Banner if available](insert_link_to_image_if_available)
+<img src="https://github.com/Spidy20/Traffic_Signs_WebApp/blob/master/1.PNG">
 
 ## Table of Contents
 - [Description](#description)
