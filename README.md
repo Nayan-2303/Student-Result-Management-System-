@@ -1,6 +1,6 @@
 # Student Result Management System
 
-<img src="[https://github.com/Nayan-2303/Student-Result-Management-System-/blob/master/Output/Dashboard.png">
+<img src=["https://github.com/Nayan-2303/Student-Result-Management-System-/blob/master/Output/Dashboard.png"]>
 
 ## Table of Contents
 - [Description](#description)
