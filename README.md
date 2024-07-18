@@ -1,6 +1,6 @@
 # Student Result Management System
 
-<img src=["Output/Dashboard.png"]>
+(Output/Dashboard.png)
 
 ## Table of Contents
 - [Description](#description)
