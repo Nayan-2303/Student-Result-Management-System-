@@ -1,6 +1,6 @@
 # Student Result Management System
 
-<img src="https://github.com/Spidy20/Traffic_Signs_WebApp/blob/master/1.PNG">
+<img src="[https://github.com/Nayan-2303/Student-Result-Management-System-/blob/master/Output/Dashboard.png">
 
 ## Table of Contents
 - [Description](#description)
