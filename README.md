@@ -1,6 +1,6 @@
 # Student Result Management System
 
-(Output/Dashboard.png)
+![Dashboard](Output/Dashboard.png)
 
 ## Table of Contents
 - [Description](#description)
