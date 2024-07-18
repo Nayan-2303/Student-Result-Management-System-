@@ -20,11 +20,11 @@ The Student Result Management System, built with Python Tkinter, allows manageme
 ### Student Information
 ![Student Information](Output/Student%20Information.png)
 
-### View Student Result
-![View Student Result](Output/View%20Student%20Result.png)
-
 ### Result Display
 ![Result Display](Output/Result.png)
+
+### View Student Result
+![View Student Result](Output/View%20Student%20Result.png)
 
 ### Exit Screen
 ![Exit Screen](Output/Exit.png)
