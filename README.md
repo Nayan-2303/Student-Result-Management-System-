@@ -5,11 +5,7 @@
 ## Table of Contents
 - [Description](#description)
 - [Screenshots](#screenshots)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
+- 
 ## Description
 The Student Result Management System, built with Python Tkinter, allows management of student records, input and update of marks, and automatic calculation of totals and percentages.
 
